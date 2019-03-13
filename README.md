@@ -7,12 +7,12 @@ We need a Employee Record Management System for a company. The system should hav
 * There should be only admin user.
 ### Department
 * Admin should be able to add/view/edit/delete the department.
-* Department info can be followings but not limited to:
+* Department info can be the following (but not limited to):
   * Title
   * Description
 ### Employee
 * Admin should be able to add/view/edit/delete the employee information under selected department.
-* Employee info can be followings but not limited to:
+* Employee info can be the following (but not limited to):
   * Name
   * Date of birth
   * Gender
@@ -24,8 +24,8 @@ We need a Employee Record Management System for a company. The system should hav
   * Join date
   * About
 ### Dashboard
-* Admin should be able to see the list of all the employees of all the departments.
-* Employee table list should show followings:
+* Admin should be able to see the list of all the employees of all departments.
+* Employee table list should show the following:
   * Name
   * Age (For eg: 21 years)
   * Mobile
