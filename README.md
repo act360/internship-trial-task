@@ -27,7 +27,7 @@ We need a Employee Record Management System for a company. The system should hav
 * Admin should be able to see the list of all the employees of all the departments.
 * Employee table list should show followings:
   * Name
-  * Age
+  * Age (For eg: 21 years)
   * Mobile
   * Employed for (For eg: 24 days, 8 months, 2 years 4 months)
   * Department
@@ -47,9 +47,12 @@ We need a Employee Record Management System for a company. The system should hav
   * act360-wordpress-erms
   * act360-laravel-erms
   * act360-php-erms
-  * Readme file in github project for installation and operation guide
-  * Form validations
-  * Well commented codes
+* Readme file in github project for installation and operation guide
+* Form validations
+* Well commented codes
+* OOP
+
 ## Good to have
 * Unit tests
 * Migrations and seeders in case of Laravel
+* MVC/HMVC pattern
