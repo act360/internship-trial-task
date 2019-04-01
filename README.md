@@ -50,9 +50,8 @@ We need a Employee Record Management System for a company. The system should hav
 * Readme file in github project for installation and operation guide
 * Form validations
 * Well commented codes
-* OOP
+* OOP with MVC/HMVC pattern
 
 ## Good to have
 * Unit tests
 * Migrations and seeders in case of Laravel
-* MVC/HMVC pattern
